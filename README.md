@@ -24,7 +24,7 @@ How to Run:
 Just open the index.html in any browser
 
 GitHub Repo:
-🔗 https://github.com/yourusername/project1-shopping-cart
+🔗 https://github.com/JUVERIA-28/experiment1.git
 
 Live URL:
 🌐 https://your-live-link.com/project1-shopping-cart
