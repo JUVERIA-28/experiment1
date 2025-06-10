@@ -27,5 +27,6 @@ GitHub Repo:
 🔗 https://github.com/JUVERIA-28/experiment1.git
 
 Live URL:
-🌐 https://your-live-link.com/project1-shopping-cart
+https://juveria-28.github.io/experiment1/
+
 
